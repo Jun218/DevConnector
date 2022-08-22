@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://wenzun0218:wenzun0218@devconnector.whd6hbu.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "My Super Secret",
+  "githubClientId": "7bcfff3e1ac721b6a734",
+  "githubSecret": "21629072c951ad741240554586cf8120f38b59d5"
+}
